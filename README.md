@@ -1,4 +1,4 @@
-# [Lucas Pontual] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://media.tenor.com/JN3qS44yAZsAAAAM/capybara.gif" width="30px">
+# [Lucas Pontual] <img src="https://media.tenor.com/JN3qS44yAZsAAAAM/capybara.gif" width="60px">
 
 Eu sou <strong>Lucas Pontual</strong>, <strong>e aqui será a minha apresentação</strong> 👨🏻‍💻 
 
