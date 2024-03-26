@@ -1,4 +1,4 @@
-# [Lucas Pontual] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+# [Lucas Pontual] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/https://tenor.com/bSfzN.gif" width="30px">
 
 Eu sou <strong>Lucas Pontual</strong>, <strong>e aqui será a minha apresentação</strong> 👨🏻‍💻 
 
