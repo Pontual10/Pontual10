@@ -1,11 +1,12 @@
 # [Lucas Pontual] <img src="https://media.tenor.com/JN3qS44yAZsAAAAM/capybara.gif" width="60px">
-
 Eu sou <strong>Lucas Pontual</strong>, <strong>e aqui será a minha apresentação</strong> 👨🏻‍💻 
 
 - 🚀 Atualmente estou aprendendo: <strong>nada</strong> 
 - 💬 Pergunte-me sobre: <strong>jogos e musicas</strong>
 - 📣 Nós podemos falar em: <strong>português</strong>
 
+
+waveys my beloved <img src="https://github.com/Pontual10/Pontual10/blob/main/cat-and-flower.gif?raw=true" width="50px">
 <div align="center">
 
   <a href="#" alt="Gmail">
