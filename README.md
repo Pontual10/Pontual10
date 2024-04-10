@@ -1,7 +1,7 @@
 # [Lucas Pontual] <img src="https://media.tenor.com/JN3qS44yAZsAAAAM/capybara.gif" width="60px">
 Eu sou <strong>Lucas Pontual</strong>, <strong>e aqui será a minha apresentação</strong> 👨🏻‍💻 
 
-- 🚀 Atualmente estou aprendendo: <strong>nada</strong> 
+- 🚀 Atualmente estou aprendendo: <strong>coisas maneiras</strong> 
 - 💬 Pergunte-me sobre: <strong>jogos e musicas</strong>
 - 📣 Nós podemos falar em: <strong>português</strong>
 
